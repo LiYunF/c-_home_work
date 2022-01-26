@@ -1,2 +1,1 @@
-# c-_home_work
-c++课程作业 五子棋程序
+[README.md](https://github.com/LiYunF/c-_home_work/files/7942819/README.md)
